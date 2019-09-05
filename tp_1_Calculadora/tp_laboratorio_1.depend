@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1567690063 source:d:\usuario\desktop\estudio\clases_lab_prog_i_codeblocks\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1567705044 source:d:\usuario\desktop\estudio\clases_lab_prog_i_codeblocks\tp_laboratorio_1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1567689671 d:\usuario\desktop\estudio\clases_lab_prog_i_codeblocks\tp_laboratorio_1\utn.h
+
